@@ -2,7 +2,7 @@
 html{
   font-family: Arial, Helvetica, sans-serif;
   margin: 0rem 2rem;
-  background-color: #0d0e11;
+  background-color: #111113;
 }
 
 /* Banner image*/
@@ -55,7 +55,7 @@ nav #active{
 /* This is the line between the main section and footer */
 main{
   border-bottom: 3px solid;
-  color: black;
+  color: #fafbff;
 }
 
 /* H1 uses a google font. Check out https://www.w3schools.com/howto/howto_google_fonts.asp to change - also see line 9 in your html page*/
@@ -89,7 +89,7 @@ p {
 
 /*Items for all the screenshots and pictures of your stuff*/
 .item{
-  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  box-shadow: 0 4px 8px 0 rgb(0, 0, 0,0.2);
   width: 20%;
   min-width: 8rem;
   margin: 0.5rem;
